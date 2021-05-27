@@ -1,0 +1,46 @@
+Bonjour
+
+J’ai pris le temps de naviguer dans le logiciel. Voici une liste de quelques questions à résoudre afin de pouvoir avancer à le tester :
+
+ 
+
+CSD commentaires
+
+Dashboard :
+Changer certaines appellations :
+
+Intérêt à la place de Bénéfice
+Caisse Sociale à la place de Caisse d’entraide
+Dépense sociale à la place de Dépense Capital
+Quand on clôture l’exercice, comment commencer un autre exercice, où vont les montants de l’exercice précédent ?
+ 
+
+Dépôt
+Intégrer la possibilité n’annuler un dépôt généré
+
+Pour simuler les dépôts : Il est impossible de générer de dépôts pour les mois précédents
+
+Membres
+Enlever les détails non importants : Etat civil, CNI, et adresse
+Impossible de modifier certains détails sur un membre en cas d’erreur, si changement il y a, pas de notification que le changement a eu lieu (CNI, Téléphone, Etat Civil, Nom&Prénom, adresse, ..)
+Enregistrement ntishoboka kuri Etat civil : MARIE
+Impossible de supprimer un membre
+Montrer en bas de la page le total pour l’Epargne et le social
+Dépenses
+Impossible de supprimer une dépense
+Les dépenses Epargne et Social n’apparaissent dans les onglets respectifs
+Modification d’une dépense est impossible
+ 
+
+Autres questions :
+
+Comment attribuer à un membre le statut de gestionnaire ?
+Mot de passe :
+        i.      Comment changer un mot de passe par défaut ?
+
+       ii.      Comment réinitialiser un mot de passe en cas d’oubli
+
+Possibilité pour le gestionnaire de se connecter comme simple membre kugira nawe ashobore gusaba crédit ???
+ 
+
+Merci
